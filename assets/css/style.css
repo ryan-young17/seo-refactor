@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-/* Changed div to nav to match the new element in the HTML file. */
+/* Changed div to nav to match the new element in the HTML file. targeted nav */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -113,7 +113,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Changed ".benefit-lead", ".benefit-brand", and ".benefit-cost" to become one ".benefit-list" for consolidation purposes. */
+/* added class benefit to remove redundant class declarations. Changed ".benefit-lead", ".benefit-brand", and ".benefit-cost" to become one ".benefit-list" for consolidation purposes. */
 .benefit-list {
     margin-bottom: 32px;
     color: #ffffff;
@@ -140,6 +140,6 @@ p {
 }
 
 /* Changed this to h4 instead of h2 to match the new heading attribute in the footer element on the HTML file. */
-.footer h4 {
+.footer h2 {
     font-size: 20px;
 }

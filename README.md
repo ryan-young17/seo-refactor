@@ -1,6 +1,6 @@
 # Challenge 01 - SEO Refactor
 
-[Link to my project]()
+[Link to my project](https://ryan-young17.github.io/seo-refactor/)
 
 ## Table of Contents
 - [Description](#description)

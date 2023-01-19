@@ -1,4 +1,4 @@
-# Challenge 01 - SEO Refactor
+# SEO Refactor
 
 [Link to my project](https://ryan-young17.github.io/seo-refactor/)
 
